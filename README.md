@@ -19,7 +19,7 @@ The other idea that I had was to use a CNN. I train a CNN foe detect when the pe
 
 - Clone the github repository.
 - run "pip install -r requirements.txt"
-- Have the gclod .json key in the folder.
+- Have the gcloud .json key in the folder.
 - rename the json key in text_to_speech.py, transcribe.py and app.py
 - Now run the streamlit application using "streamlit run app.py"
 - You can upload the video and then check the terminal to see how its working. After it has processed everything, The video will be displayed on the web where the streamlit application is open.
